@@ -57,7 +57,8 @@ In this project we will learn about:
 
 • Breadboard
 
-**Conclusion**
+**Conclusion:**
+
 In this study, a tool to detect motion of objects, and produce a sound alarm by piezo buzzer and also 
 light by LEDs are assembled. The circuit connection and program with Arduino microcontroller chip 
 to run the circuit are performed. The ultrasonic sensor was able to send ultrasonic sound waves to the 
